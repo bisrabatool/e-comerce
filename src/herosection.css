@@ -1,0 +1,29 @@
+
+
+.hero-section {
+    background-image: url('./assest/pexels-photo-7019996.webp');
+    background-size: cover;
+    background-position: center;
+    height: 500px; /* Adjust the height based on your design */
+    color: #ffffff; /* Set text color to contrast with the background */
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+  }
+  
+  .hero-content {
+    max-width: 600px; /* Adjust the width of the content */
+  }
+  
+  h1 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+  }
+  
+  p {
+    font-size: 1.25rem;
+  }
+  
