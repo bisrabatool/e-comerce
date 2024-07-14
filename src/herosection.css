@@ -1,11 +1,11 @@
 
 
 .hero-section {
-    background-image: url('./assest/pexels-photo-7019996.webp');
+    background-image: url('./assest/./pexels-photo-6311861.webp');
     background-size: cover;
     background-position: center;
     height: 500px; /* Adjust the height based on your design */
-    color: #ffffff; /* Set text color to contrast with the background */
+    color: #e8daa2; /* Set text color to contrast with the background */
     text-align: center;
     display: flex;
     flex-direction: column;
@@ -26,4 +26,20 @@
   p {
     font-size: 1.25rem;
   }
+  button{
+      background:rgb(198, 178, 158);
+      color:white;
+      padding: 15px 25px;
+      border-radius: 7px;
+      border: #e8daa2;
+      text-decoration: none;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      transition: 0.3s all ease;
+  }
+  
+  button:hover {
+      background-color:rgb(50, 40, 40);
+  }
+
   

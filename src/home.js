@@ -5,7 +5,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 function MyNavbar() {
   return (
-    <Navbar bg="dark" variant="dark">
+    <Navbar bg="dark" variant="dark" id='#home'className='homee'>
       <Container>
         <Navbar.Brand href="#home">candels</Navbar.Brand>
         <Nav className="me-auto">
